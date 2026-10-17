@@ -1,0 +1,3 @@
+Google Looker Studio report: https://datastudio.google.com/s/npWRSXkiVbY
+
+If the link does not open, check the report sharing permissions in Looker Studio.

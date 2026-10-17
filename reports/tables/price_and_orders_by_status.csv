@@ -1,0 +1,8 @@
+order_status,sum_item_price,unique_orders
+delivered,13221498.11,96478
+shipped,150727.44,1106
+canceled,95235.27,461
+invoiced,61526.37,312
+processing,60439.22,301
+unavailable,2007.69,6
+approved,209.60000000000002,2
